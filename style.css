@@ -8,9 +8,10 @@
 	border: solid white 0.1em;
 }
 
-h1 + p {
+h1 {
 	width: 100%;
-}
+	text-align: center;
+}	
 
 .content {
 	display: flex;
